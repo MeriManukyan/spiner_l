@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">spiner_l</string>
+    <array name="n">
+        <item>hello world</item>
+        <item>你好，世界</item>
+        <item>न मस्ते,संसार</item>
+    </array>
+</resources>
